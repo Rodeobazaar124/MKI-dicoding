@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Makanan Khas Indonesia</string>
+    <string name="about_page">Halaman Tentang saya</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Muhammad Azfa Salman Akbar</string>
+
+
+    <string name="heroes_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Rendang</item>
+        <item>Gudeg</item>
+        <item>Pempek</item>
+        <item>Sate Madura</item>
+        <item>Nasi Goreng Jawa</item>
+        <item>Coto Makassar</item>
+        <item>Papeda</item>
+        <item>Bika Ambon</item>
+        <item>Ayam Betutu</item>
+        <item>Kerak Telor</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Masakan khas Sumatera Barat yang berbahan dasar daging sapi, dimasak dengan santan dan rempah-rempah, terkenal sebagai salah satu makanan terenak di dunia.</item>
+        <item>Masakan khas Yogyakarta berbahan nangka muda yang dimasak dengan santan, bertekstur manis, dan biasanya disajikan dengan krecek dan telur.</item>
+        <item>Makanan khas Palembang berbahan dasar ikan dan sagu, disajikan dengan cuko yang asam pedas.</item>
+        <item>Hidangan khas Madura yang terdiri dari sate ayam berbumbu kacang manis, disajikan dengan lontong atau nasi.</item>
+        <item>Versi nasi goreng khas Jawa yang bercitarasa manis dari kecap, sering dimasak dengan ayam, telur, dan sambal.</item>
+        <item>Sup daging khas Sulawesi Selatan dengan kuah kaya rempah, biasanya disantap dengan ketupat.</item>
+        <item>Bubur sagu khas Maluku dan Papua yang disajikan dengan ikan kuah kuning atau sup ikan tongkol.</item>
+        <item>Kue khas Medan yang berbahan dasar santan, gula, dan tepung, terkenal dengan tekstur bersarangnya.</item>
+        <item>Hidangan khas Bali berupa ayam yang dimasak dengan bumbu genep khas Bali, dimasak dengan cara dipanggang atau dikukus.</item>
+        <item>Makanan khas Betawi berbahan dasar telur, beras ketan, dan serundeng, dimasak di atas arang dengan rasa gurih dan renyah.</item>
+    </string-array>
+    <string-array name="data_article">
+        <item>Rendang adalah masakan khas Minangkabau yang telah mendunia. Terbuat dari daging sapi yang dimasak dengan santan dan rempah-rempah seperti serai, daun jeruk, lengkuas, dan cabai, rendang membutuhkan proses memasak yang lama hingga kuahnya meresap dan mengering. Hidangan ini sering disajikan saat acara adat atau perayaan penting di Sumatera Barat. Rendang bahkan pernah dinobatkan sebagai salah satu makanan terenak di dunia oleh CNN.Keunikan rendang terletak pada proses memasaknya yang memakan waktu berjam-jam untuk memastikan bumbu benar-benar meresap. Rasanya yang gurih, pedas, dan kaya rempah membuat rendang sangat istimewa. Tidak hanya di Indonesia, rendang juga menjadi favorit di berbagai negara dengan variasi lokal yang tetap mempertahankan keaslian cita rasanya.</item>
+        <item>Gudeg merupakan makanan khas Yogyakarta yang berbahan dasar nangka muda. Proses memasak gudeg melibatkan santan dan gula aren, memberikan rasa manis dan tekstur lembut. Hidangan ini biasanya disajikan bersama krecek, telur pindang, dan ayam. Gudeg kering cenderung lebih tahan lama, sehingga cocok dijadikan oleh-oleh khas dari Yogyakarta. Selain rasa manisnya yang khas, gudeg juga mencerminkan kekayaan budaya Jawa yang penuh makna. Dalam tradisi masyarakat Yogyakarta, gudeg sering disajikan dalam acara-acara penting seperti pernikahan atau selamatan. Hidangan ini menggambarkan harmoni rasa yang sejalan dengan filosofi hidup orang Jawa.</item>
+        <item>Pempek adalah makanan khas Palembang yang berbahan dasar ikan tenggiri dan sagu. Hidangan ini dikenal karena rasa khasnya yang dipadukan dengan saus cuko, yakni campuran gula merah, cabai, dan asam. Pempek memiliki berbagai jenis, seperti kapal selam, lenjer, adaan, dan kulit. Pempek sering dijadikan camilan maupun menu makan utama di Palembang. Keunikan pempek terletak pada teksturnya yang kenyal dan cita rasa yang berpadu sempurna antara gurih dan asam pedas dari cuko. Pempek juga menjadi simbol identitas kuliner Palembang, sehingga hampir setiap rumah di kota ini memiliki resep pempek andalan. Hidangan ini sering dijadikan buah tangan oleh para wisatawan.</item>
+        <item>Sate Madura adalah hidangan khas Madura yang dikenal luas di seluruh Indonesia. Berbahan dasar ayam yang dipotong kecil-kecil, sate ini dibakar dan disajikan dengan saus kacang kental bercitarasa manis. Biasanya, sate Madura disajikan bersama lontong atau nasi, ditambah taburan bawang goreng dan kecap manis. Kelezatan sate Madura tidak hanya berasal dari saus kacangnya yang khas, tetapi juga dari teknik pembakaran yang sempurna. Aroma harum dari arang saat membakar sate menambah daya tarik hidangan ini. Sate Madura telah menjadi bagian penting dalam kuliner jalanan Indonesia dan mudah ditemukan di berbagai kota.</item>
+        <item>Nasi Goreng Jawa adalah varian nasi goreng dengan cita rasa khas Jawa yang manis karena penggunaan kecap manis. Bumbu utamanya terdiri dari bawang merah, bawang putih, dan cabai. Hidangan ini sering dilengkapi dengan telur mata sapi, ayam suwir, dan kerupuk. Nasi Goreng Jawa menjadi favorit karena kelezatannya yang sederhana namun menggugah selera. Selain sebagai makanan sehari-hari, Nasi Goreng Jawa juga sering dijadikan pilihan dalam acara keluarga atau pesta kecil. Keunikannya terletak pada rasa manis gurih yang khas, berbeda dengan nasi goreng pada umumnya. Hidangan ini mencerminkan selera masyarakat Jawa yang menyukai harmoni dalam rasa.</item>
+        <item>Coto Makassar adalah sup daging khas Sulawesi Selatan dengan kuah kaya rempah yang unik. Kuahnya berbahan dasar kacang tanah yang dihaluskan dan dipadukan dengan bumbu seperti ketumbar, jintan, dan lengkuas. Coto Makassar biasanya disajikan bersama potongan ketupat dan taburan bawang goreng, menjadikannya hidangan khas yang nikmat dan mengenyangkan. Coto Makassar tidak hanya sekadar makanan, tetapi juga bagian dari budaya masyarakat Makassar. Hidangan ini sering disajikan pada acara-acara besar seperti pernikahan dan tradisi adat lainnya. Kombinasi rasa gurih dan aroma rempah yang kuat menjadikan Coto Makassar sebagai salah satu hidangan nusantara yang istimewa.</item>
+        <item>Papeda adalah bubur sagu khas Maluku dan Papua yang memiliki tekstur kenyal dan lengket. Biasanya, papeda disajikan dengan ikan kuah kuning yang terbuat dari ikan tongkol atau ikan kembung yang dimasak dengan kunyit, daun jeruk, dan santan. Hidangan ini mencerminkan kekayaan kuliner timur Indonesia yang sehat dan lezat. Sebagai makanan pokok di daerah timur Indonesia, papeda memiliki nilai budaya yang tinggi. Hidangan ini melambangkan kebersamaan karena biasanya dinikmati secara beramai-ramai. Rasa netral papeda berpadu sempurna dengan kuah ikan yang kaya rempah, menciptakan harmoni rasa yang unik.</item>
+        <item>Bika Ambon adalah kue tradisional khas Medan yang terkenal dengan teksturnya yang bersarang dan kenyal. Kue ini terbuat dari campuran santan, gula, tepung, dan telur, yang difermentasi dengan ragi. Rasanya manis dan aromanya harum, menjadikan Bika Ambon sebagai salah satu oleh-oleh wajib saat berkunjung ke Medan. Proses pembuatan Bika Ambon cukup unik karena membutuhkan waktu fermentasi yang tepat untuk menghasilkan tekstur bersarang yang khas. Kue ini biasanya dijual dalam berbagai rasa seperti original, pandan, dan durian, yang menambah variasi pilihan bagi para pecinta kuliner.</item>
+        <item>Ayam Betutu adalah hidangan khas Bali yang dimasak dengan bumbu genep, yakni campuran rempah-rempah khas Bali seperti kunyit, jahe, bawang, dan cabai. Ayam ini dimasak dengan cara dipanggang atau dikukus hingga bumbunya meresap sempurna. Ayam Betutu biasanya disajikan bersama nasi, sambal matah, dan lawar. Hidangan ini sering menjadi pilihan utama dalam upacara adat Bali karena cita rasanya yang kaya dan autentik. Ayam Betutu tidak hanya sekadar makanan, tetapi juga bagian dari tradisi masyarakat Bali yang sarat makna. Keharuman rempah yang meresap hingga ke tulang ayam menjadikannya hidangan yang selalu dirindukan.</item>
+        <item>Kerak Telor adalah makanan khas Betawi yang dimasak di atas wajan dengan menggunakan arang. Bahan utamanya adalah telur bebek, beras ketan, dan serundeng. Rasanya gurih dengan tekstur yang renyah di bagian luar. Kerak Telor sering ditemukan di acara-acara budaya Betawi seperti Pekan Raya Jakarta, menjadikannya simbol kuliner khas ibu kota. Keunikan Kerak Telor terletak pada proses pembuatannya yang menggunakan teknik tradisional. Penjual kerak telor biasanya memasak langsung di depan pembeli, menambah daya tarik kuliner ini. Hidangan ini menggambarkan kekayaan budaya Betawi yang tetap terjaga hingga kini.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/r</item>
+        <item>@drawable/g</item>
+        <item>@drawable/ppk</item>
+        <item>@drawable/sm</item>
+        <item>@drawable/ngj</item>
+        <item>@drawable/cm</item>
+        <item>@drawable/ppd</item>
+        <item>@drawable/ba</item>
+        <item>@drawable/ab</item>
+        <item>@drawable/kt</item>
+    </integer-array>
+</resources>
